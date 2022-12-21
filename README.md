@@ -6,7 +6,7 @@ This is currently a very short game, as there is only one level in it.
 Download the zip file for this game and extract it into a desired location. Then, run "Cube.exe".
 
 # How to Play
-Press any key on the main menu or press the large play button to start the game.
+Press any key on the main menu or press the large play button to start the game. Use the left and right arrow keys to move the cube.
 
 # More Info
 To see the assets used in the game, click the link below:
