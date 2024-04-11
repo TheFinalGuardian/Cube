@@ -9,10 +9,10 @@ Download the zip file for this game and extract it into a desired location. Then
 Press any key on the main menu or press the large play button to start the game. Use the left and right arrow keys to move the cube.
 
 # More Info
-To see the assets used in the game, click the link below:
+To see the assets used in the game, use the link below:
 https://github.com/TheFinalGuardian/Cube-Assets
 
 After that, you may download the assets and use them in your Unity project.
+Feel free to customize the project for yourself!
 
-
-Have fun and good luck!
+Have fun and good luck.
