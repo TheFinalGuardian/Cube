@@ -1,6 +1,7 @@
 # Cube
 This is a simple 3D game made with the Unity game engine where you dodge objects and reach the end of the level.
-This is currently a very short game, as there is only one level in it.
+It is currently very short with only one level.
+I hope to add more in the future.
 
 # Getting Started
 Download the zip file for this game and extract it into a desired location. Then, run "Cube.exe".
